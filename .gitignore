@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+.venv-build/
+venv/
+env/
+
+# Logs and runtime output
+logs/
+*.log
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Local screenshots and temporary files
+screenshot_*.png
+*.tmp
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
